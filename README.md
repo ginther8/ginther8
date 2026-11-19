@@ -52,7 +52,7 @@ PracticeSG helps people build confidence with Singapore's digital services throu
 
 The application uses modular JavaScript with no external framework or build step. Its features include multilingual text, text-to-speech guidance, completion tracking and self-reported confidence check-ins. Simulated workflows let users practise digital tasks without making real payments or using real service accounts.
 
-[View the public team repository and setup instructions](https://github.com/jordanyeo2001/PracticeSG)
+[Try the live browser demo](https://practicesg.netlify.app/) · [View the public team repository and setup instructions](https://github.com/jordanyeo2001/PracticeSG)
 
 ## Additional project
 
