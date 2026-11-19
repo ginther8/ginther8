@@ -5,7 +5,7 @@ I'm a Computer Science student specialising in Real-Time Interactive Simulation 
 ## Project case studies
 
 - [Runi](#runi) is my main project, an Android running app. I work on authentication, backend services and recording transfers.
-- [WDYM there's no milopeng in space](#milopeng) shows my work on player progression and power-ups in C.
+- [WDYM There's Milopeng in Space](#milopeng) shows my work on player progression and power-ups in C.
 - [PRC Data Challenge 2026](#prc-challenge) shows my work on data exploration, model experiments and evaluation.
 
 Runi and the two C/C++ game source repositories are private under school restrictions. The PRC and PracticeSG repositories are public.
@@ -21,7 +21,7 @@ Recording transfers needed to run off the Android UI thread, and retries needed 
 For downloads, I validated recording identity and course metadata before atomically replacing a cached file. I added Android tests for incompatible downloads, preservation of existing recordings and offline playback. The integrated workflow demonstrated uploading, sharing, downloading and replaying a recording between two accounts.
 
 <a id="milopeng"></a>
-### WDYM there's no milopeng in space
+### WDYM There's Milopeng in Space
 
 *University team project | C, CProcessing | 4-person team*
 
