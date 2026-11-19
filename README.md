@@ -8,7 +8,7 @@ I'm a Computer Science student specialising in Real-Time Interactive Simulation 
 - [WDYM there's no milopeng in space](#milopeng) shows my work on player progression and power-ups in C.
 - [PRC Data Challenge 2026](#prc-challenge) shows my work on data exploration, model experiments and evaluation.
 
-School-project source repositories are private under school restrictions. The PRC repository is public.
+Runi and the two C/C++ game source repositories are private under school restrictions. The PRC and PracticeSG repositories are public.
 
 ### Runi
 
@@ -43,6 +43,16 @@ I reproduced Exp04 and checked that the results matched the reference experiment
 My contribution focused on exploration, experiments, reproduction and evaluation. The final team pipeline combined its base model with additional corrections and post-processing, improving pooled validation RMSE from 334.05 to 306.27 seconds. Lower RMSE means smaller prediction errors; these figures describe the team pipeline rather than an improvement attributable to my work alone.
 
 [View the public repository](https://github.com/ginther8/prc2026_vigorous-glove) · [Read the reproduction and validation guide](https://github.com/ginther8/prc2026_vigorous-glove/blob/main/README_adsb_pipeline.md)
+
+## PracticeSG browser project
+
+*Team project | HTML, CSS, JavaScript | 3-person team*
+
+PracticeSG helps people build confidence with Singapore's digital services through simulated activities. The team project includes practice flows for Singpass, PayNow, QR scanning, clinic registration and online shopping, alongside a scam-awareness quiz.
+
+The application uses modular JavaScript with no external framework or build step. Its features include multilingual text, text-to-speech guidance, completion tracking and self-reported confidence check-ins. Simulated workflows let users practise digital tasks without making real payments or using real service accounts.
+
+[View the public team repository and setup instructions](https://github.com/jordanyeo2001/PracticeSG)
 
 ## Additional project
 
